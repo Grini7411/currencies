@@ -1,0 +1,12 @@
+Pair name - EUR-USD
+Value - 1.1911
+Updated - 3/5/2021 2:23:00 PM
+Pair name - EUR-JPY
+Value - 129.03
+Updated - 3/5/2021 2:23:00 PM
+Pair name - EUR-GBP
+Value - 0.861
+Updated - 3/5/2021 2:23:00 PM
+Pair name - USD-ILS
+Value - 3.3292
+Updated - 3/5/2021 2:23:00 PM
